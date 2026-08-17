@@ -24,10 +24,10 @@ Install **UX Pilot** from Customize when the listing is live.
 
 ## Widgets
 
-Cursor supports [MCP Apps](https://cursor.com/docs/mcp.md). Generation and confirmation UIs may render in a sandboxed iframe. That is not guaranteed to match ChatGPT. If a widget is missing, listing and edit tools still work through normal tool results. Destructive actions (delete, publish) stay confirmation-gated and must not complete from the model alone.
+Cursor supports [MCP Apps](https://cursor.com/docs/mcp.md). Generation and confirmation UIs may render in a sandboxed iframe. If a widget is missing, listing and edit tools still work through normal tool results. Destructive actions (delete, publish) stay confirmation-gated and must not complete from the model alone.
 
 On some Cursor versions the iframe is inside a collapsed tool-call group; expand it to see the UI.
 
 ## MCP path
 
-Use `/mcp/ui` (this plugin). ChatGPT uses `/mcp`. Do not point Cursor at `/mcp`.
+This plugin uses `/mcp/ui`. Do not point Cursor at `/mcp`.
