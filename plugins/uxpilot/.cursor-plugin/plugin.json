@@ -1,0 +1,12 @@
+{
+  "name": "uxpilot",
+  "displayName": "UX Pilot",
+  "version": "1.0.0",
+  "description": "Connect Cursor to UX Pilot to list workspace designs and run UX Pilot MCP tools.",
+  "author": {
+    "name": "UX Pilot"
+  },
+  "license": "MIT",
+  "keywords": ["uxpilot", "design", "mcp"],
+  "logo": "assets/logo.svg"
+}

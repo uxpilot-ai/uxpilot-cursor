@@ -1,0 +1,17 @@
+{
+  "name": "uxpilot",
+  "owner": {
+    "name": "UX Pilot"
+  },
+  "metadata": {
+    "description": "UX Pilot Cursor plugin",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "uxpilot",
+      "source": "./plugins/uxpilot",
+      "description": "Connect Cursor to UX Pilot over MCP"
+    }
+  ]
+}
