@@ -27,7 +27,3 @@ node scripts/validate-template.mjs
 Local load: copy or symlink `plugins/uxpilot` to `~/.cursor/plugins/local/uxpilot`, then reload Cursor.
 
 Submit this GitHub URL at [cursor.com/marketplace/publish](https://cursor.com/marketplace/publish) after the repo is public.
-
-## License
-
-MIT
