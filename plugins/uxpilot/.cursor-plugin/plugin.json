@@ -2,10 +2,23 @@
   "name": "uxpilot",
   "displayName": "UX Pilot",
   "version": "1.0.0",
-  "description": "Connect Cursor to UX Pilot to list workspace designs and run UX Pilot MCP tools.",
+  "description": "Connect Cursor to your UX Pilot workspace: find and edit designs, create on-brand UI from your design system, run UX reviews and turn designs into React prototypes, with interactive UI right in chat.",
   "author": {
-    "name": "UX Pilot"
+    "name": "UX Pilot Inc",
+    "email": "hello@uxpilot.ai"
   },
-  "keywords": ["uxpilot", "design", "mcp"],
+  "homepage": "https://uxpilot.ai",
+  "repository": "https://github.com/uxpilot-ai/uxpilot-cursor",
+  "license": "MIT",
+  "keywords": [
+    "uxpilot",
+    "design",
+    "ui",
+    "ux",
+    "design-system",
+    "prototype",
+    "ux-review",
+    "mcp"
+  ],
   "logo": "assets/logo.svg"
 }
