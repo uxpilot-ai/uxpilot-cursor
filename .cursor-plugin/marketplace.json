@@ -1,7 +1,8 @@
 {
   "name": "uxpilot",
   "owner": {
-    "name": "UX Pilot"
+    "name": "UX Pilot Inc",
+    "email": "hello@uxpilot.ai"
   },
   "metadata": {
     "description": "UX Pilot Cursor plugin",

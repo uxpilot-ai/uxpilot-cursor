@@ -27,3 +27,7 @@ node scripts/validate-template.mjs
 Local load: copy or symlink `plugins/uxpilot` to `~/.cursor/plugins/local/uxpilot`, then reload Cursor.
 
 Submit this GitHub URL at [cursor.com/marketplace/publish](https://cursor.com/marketplace/publish) after the repo is public.
+
+## License
+
+The plugin files in this repository are MIT licensed (see `LICENSE`). The UX Pilot service behind the MCP server is proprietary and governed by its own terms. "UX Pilot" and the UX Pilot logo are trademarks of UX Pilot Inc and are not covered by the MIT license.
