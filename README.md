@@ -31,3 +31,5 @@ Submit this GitHub URL at [cursor.com/marketplace/publish](https://cursor.com/ma
 ## License
 
 The plugin files in this repository are MIT licensed (see `LICENSE`). The UX Pilot service behind the MCP server is proprietary and governed by its own terms. "UX Pilot" and the UX Pilot logo are trademarks of UX Pilot Inc and are not covered by the MIT license.
+
+Using UX Pilot through this plugin is covered by the UX Pilot [Terms of Service](https://uxpilot.ai/terms) and [Privacy Policy](https://uxpilot.ai/privacy).
